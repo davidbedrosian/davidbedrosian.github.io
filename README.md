@@ -1,8 +1,3 @@
----
-layout: default
-title: David Bedrosian's Resume
----
-
 # David Bedrosian
 
 ## Contact Information
